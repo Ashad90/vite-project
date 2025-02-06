@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+<!-- Exercice pratique avec Vite+React -->
